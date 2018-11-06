@@ -1,0 +1,83 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.100
+Start off by downloading the template off bootstrap.com.
+2
+00:00:08.100 --> 00:00:16.100
+The Template you downloaded should look like this.
+3
+00:00:016.200 --> 00:00:25.100
+First lets edit the Title of the website!
+4
+00:00:025.200 --> 00:00:30.100
+Make it whatever you want of course 
+5
+00:00:30.200 --> 00:00:33.100
+Next edit the menu bar
+6
+00:00:33.200 --> 00:00:45.100
+Type in whatever you would like between the <a> tags (hyperlink tags).
+7
+00:00:045.200 --> 00:01:06.400
+They must be <a> tags in order to be clickable and to navigate to where you want it to go
+8
+00:01:06.500 --> 00:01:09.100
+Next up lets change the background image of the header!
+9
+00:01:09.200 --> 00:01:13.100
+For this particular template you can change it through the CSS file
+10
+00:01:13.200 --> 00:01:22.400
+Just find the class it's under and change it with your picture, simple!
+11
+00:01:22.500 --> 00:01:34.100
+Next up you have to delete the text thats inside the section.
+12
+00:01:34.200 --> 00:01:38.300
+It should look something like this after you're finished up.
+13
+00:01:38.400 --> 00:01:50.800
+Now we are going to change the title for the "Who am I" page
+14
+00:01:50.900 --> 00:02:07.800
+Next delete the excess code because you won't be needing it.
+15
+00:02:07.900 --> 00:02:12.300
+Also delete the <i> tag, you also won't be needing that!
+16
+00:02:12.400 --> 00:02:36.300
+Put your image tag and make the class as "card" - this makes it into a rectangular card.
+17
+00:02:036.400 --> 00:03:12.300
+Fill out all the necessary information to make it look pretty and aligned! Also pick a width or height you like!
+18
+00:03:12.400 --> 00:03:43.300
+Fill out your description - I used an <h4> tag to make a small little title and a <p> tag for the body
+19
+00:03:43.400 --> 00:04:28.600
+Make an <a> tag and class it as a button (btn) in order to link whatever you want.
+20
+00:04:28.700 --> 00:04:32.400
+Your "who am i" page should look similar to this format
+21
+00:04:32.500 --> 00:04:40.200
+Now when editing the skills page you want to have an <img> tag and a <p> tag for the description.
+22
+00:04:40.300 --> 00:04:50.200
+For me all i did was just copy and paste my first example and then just change the image and description. 
+23
+00:04:50.300 --> 00:05:00.400
+You can also edit the images and text more in the css if you would like.
+24
+00:05:00.500 --> 00:05:13.400
+Delete this section of the page since you won't be needing it.
+25
+00:05:13.500 --> 00:05:20.200
+To make a contact me page all you have to do is is edit the title, change the description
+26
+00:05:20.300 --> 00:05:34.200
+In my case i deleted the telephone part. Also you must change the email of course!
+27
+00:05:34.300 --> 00:05:47.700
+That concludes the tutorial, it should look similar to this in the end!
